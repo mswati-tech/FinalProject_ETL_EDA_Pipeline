@@ -125,7 +125,7 @@ Model used: Gaussian Naive Bayes (lightweight & interpretable).
 
 ├── README.md
 
-├── FinalProject_code.ipynb (or .py)
+├── finalproject_code.py
 
 ├── sql_data (in-memory)
 
