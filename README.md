@@ -130,7 +130,3 @@ Model used: Gaussian Naive Bayes (lightweight & interpretable).
 ├── sql_data (in-memory)
 
 └── MongoDB Atlas cluster
-
-wordcloud
-
-This project is suitable for academic submissions, portfolio demonstrations, and learning hybrid database analytics.
